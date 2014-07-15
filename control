@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.noblackvuedisclaimer
+Name: NoBlackVueDisclaimer
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bypass that incessant warning whenever you launch the BlackVue app.
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
